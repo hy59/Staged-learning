@@ -1,0 +1,4 @@
+flake8
+yapf
+bs4
+requests
